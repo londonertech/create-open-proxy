@@ -1,2 +1,2 @@
 # instapy
-This Repo is used for instapy.
+This Repo is used for Vultr.
